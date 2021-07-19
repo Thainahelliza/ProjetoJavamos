@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class HomeView {
-	public String getMensagem () {
-		return "Bem-vindo";
+	public String getApresents () {
+		return "Bem-vindo a nossa API";
 	}
 	
 	public List<String> getEndpoints(){
@@ -22,9 +22,9 @@ public class HomeView {
 		lista.add("");
 		
 		lista.add("/clientes");
-		lista.add("/cliente/1");
-		lista.add("/cliente/2");
-		lista.add("/cliente/3");
+		lista.add("/clientes/1");
+		lista.add("/clientes/2");
+		lista.add("/clientes/3");
 		
 		return lista;
 		

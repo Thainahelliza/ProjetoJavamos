@@ -9,6 +9,7 @@ Thaina Bitencourt - https://github.com/Thainahelliza/ProjetoJavamos <br>
 Ângelo Beck - https://github.com/angelobeck/rpg <br>
 Olavo Neto - https://github.com/olavonettow/Projeto-itau-dot-exemplo-spring-java-main <br>
 Junior Faria - https://github.com/jr7f <br>
+Aliny - https://github.com/AlinyMarcelino/projetofinal
 
 
 

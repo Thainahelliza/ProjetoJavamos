@@ -3,6 +3,16 @@
 Uma versão em HTML deste conteúdo está disponível em:
 <https://javamos.ecolabore.net>
 
+<h2> Integrantes </h2>
+
+Thaina Bitencourt - https://github.com/Thainahelliza/ProjetoJavamos
+Ângelo Beck - https://github.com/angelobeck/rpg
+Olavo Neto - https://github.com/olavonettow/Projeto-itau-dot-exemplo-spring-java-main
+Junior Faria - https://github.com/jr7f
+
+
+
+
 ## Apresentação ##
 
 Conforme a proposta dada, de criar uma API, assim a fizemos.

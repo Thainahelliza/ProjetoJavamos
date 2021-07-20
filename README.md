@@ -5,10 +5,10 @@ Uma versão em HTML deste conteúdo está disponível em:
 
 <h2> Integrantes </h2>
 
-Thaina Bitencourt - https://github.com/Thainahelliza/ProjetoJavamos
-Ângelo Beck - https://github.com/angelobeck/rpg
-Olavo Neto - https://github.com/olavonettow/Projeto-itau-dot-exemplo-spring-java-main
-Junior Faria - https://github.com/jr7f
+Thaina Bitencourt - https://github.com/Thainahelliza/ProjetoJavamos <br>
+Ângelo Beck - https://github.com/angelobeck/rpg <br>
+Olavo Neto - https://github.com/olavonettow/Projeto-itau-dot-exemplo-spring-java-main <br>
+Junior Faria - https://github.com/jr7f <br>
 
 
 
